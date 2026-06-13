@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "k24-klik-redesign",
+          "appId": "1:965615603956:android:522f7771b5c94f355c8ea1",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "k24-klik-redesign",
+          "configurations": {
+            "android": "1:965615603956:android:522f7771b5c94f355c8ea1",
+            "web": "1:965615603956:web:220438c66d2b66b15c8ea1"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

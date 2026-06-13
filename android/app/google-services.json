@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965615603956",
+    "project_id": "k24-klik-redesign",
+    "storage_bucket": "k24-klik-redesign.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965615603956:android:522f7771b5c94f355c8ea1",
+        "android_client_info": {
+          "package_name": "com.example.k24_mvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfjx0kw_106IXbPsTR0FlkGPwVssOpdww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
