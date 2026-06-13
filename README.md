@@ -13,9 +13,9 @@ This project aims to solve complex user navigation, visual clutter, and cognitiv
 
 ## 🔗 Live Project Links
 
-*   🌐 **Live Web App (Firebase Hosting):** `[INSERT YOUR FIREBASE WEB LINK HERE]`
+*   🌐 **Live Web App (Firebase Hosting):** https://k24-klik-redesign.web.app
 *   📱 **Android APK Download:** [Download the APK from GitHub Releases](https://github.com/BandarAbdulrab/Final-Project-UAS-of-Human-Computer-Interaction-UI-UX-Course/releases)
-*   🎨 **Figma Prototype:** `[INSERT YOUR FIGMA SHARE LINK HERE]`
+*   🎨 **Figma Prototype:** https://www.figma.com/proto/MDeNCXh7pGWPCTnhioIHXV/Hi-Fi-Prototype?node-id=0-1&t=G1fAsL7AIrAYOMB5-1
 *   📄 **Full Academic Report:** Available in `docs/Report/`
 
 ---
