@@ -14,7 +14,7 @@ This project aims to solve complex user navigation, visual clutter, and cognitiv
 ## 🔗 Live Project Links
 
 *   🌐 **Live Web App (Firebase Hosting):** `[INSERT YOUR FIREBASE WEB LINK HERE]`
-*   📱 **Android APK Download:** Available in `docs/apk/`
+*   📱 **Android APK Download:** [Download the APK from GitHub Releases](https://github.com/BandarAbdulrab/Final-Project-UAS-of-Human-Computer-Interaction-UI-UX-Course/releases)
 *   🎨 **Figma Prototype:** `[INSERT YOUR FIGMA SHARE LINK HERE]`
 *   📄 **Full Academic Report:** Available in `docs/Report/`
 
